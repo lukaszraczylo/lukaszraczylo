@@ -14,4 +14,4 @@ Golang 🥰 Python 🔥 Ruby 💎 (and quite rusty PHP, Java, C)
 
 ### Contact me
 
-You can find me on [Linkedin](https://www.linkedin.com/in/lukaszraczylo/) or drop me a line at `lukasz(%)raczylo.com`.
+You can find me on [raczylo.com](https://www.raczylo.com), [Linkedin](https://www.linkedin.com/in/lukaszraczylo/) or drop me a line at `lukasz(%)raczylo.com`.
