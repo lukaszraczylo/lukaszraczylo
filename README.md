@@ -4,9 +4,9 @@ I'm a London based, established contractor, proud ASPIE with love for new techno
 
 Most of my code is private but the bits which are public are free for grabs.
 
-### Aspiring writer
+### Aspiring tech writer
 
-Check out my [medium articles](https://raczylo.medium.com/)
+Check out my [medium articles](https://raczylo.medium.com/).
 
 ### Languages and technologies I work with
 
