@@ -1,8 +1,12 @@
 ### Hi, I'm Lukasz
 
-I'm a London based, established contractor with love for new technologies 👨‍💻.
+I'm a London based, established contractor, proud ASPIE with love for new technologies 👨‍💻.
 
-Most of my code is private 😢 but the bits which are public are free for grabs.
+Most of my code is private but the bits which are public are free for grabs.
+
+### Aspiring writer
+
+Check out my [medium articles](https://raczylo.medium.com/)
 
 ### Languages and technologies I work with
 
