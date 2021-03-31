@@ -14,8 +14,11 @@ Golang 🥰 Python 🔥 Ruby 💎 (and quite rusty PHP, Java, C)
 
 🌟 Docker Kubernetes Terraform Ansible 🌟
 
-☁️ Going cloudy? I love AWS and GoogleCloud (and sometimes even Azure)
-
 ### Contact me
 
 You can find me on [raczylo.com](https://www.raczylo.com), [Linkedin](https://www.linkedin.com/in/lukaszraczylo/) or drop me a line at `lukasz(%)raczylo.com`.
+
+
+![Lukasz Raczylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaszraczylo&count_private=true&show_icons=true)
+
+* Includes contributions within private repositories and projects
