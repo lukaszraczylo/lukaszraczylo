@@ -22,13 +22,7 @@ You can also check out my other [medium articles](https://raczylo.medium.com/).
 
 #### Contact me
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-[1]: https://twitter.com/raczylo
-[2]: https://www.linkedin.com/in/lukaszraczylo/
-
-You can find me on [raczylo.com](https://www.raczylo.com), [Linkedin](https://www.linkedin.com/in/lukaszraczylo/) or drop me a line at `lukasz(%)raczylo.com`.
-
+You can find me on [raczylo.com](https://raczylo.com), [twitter](https://twitter.com/raczylo) or on [linkedIn](https://www.linkedin.com/in/lukaszraczylo/).
 
 ![Lukasz Raczylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaszraczylo&count_private=true&show_icons=true&cache_seconds=1800)
 
