@@ -14,9 +14,11 @@ You can also check out my other [medium articles](https://raczylo.medium.com/).
 
 #### Languages and technologies I work with
 
-🌟 Golang 🌟 Python 🌟 Ruby 🌟 (and quite rusty PHP, Java, C)
+🌟 Golang 🌟 Python 🌟 Ruby 🌟 **(and quite rusty PHP, Java, C)**
+
 🌟 Docker 🌟 Kubernetes 🌟 Terraform 🌟 Ansible 🌟
-🌟 AWS 🌟 GCP 🌟 I don't like Azure.
+
+🌟 AWS 🌟 GCP 🌟 **I don't like Azure.**
 
 #### Contact me
 
