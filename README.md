@@ -19,6 +19,6 @@ Golang 🥰 Python 🔥 Ruby 💎 (and quite rusty PHP, Java, C)
 You can find me on [raczylo.com](https://www.raczylo.com), [Linkedin](https://www.linkedin.com/in/lukaszraczylo/) or drop me a line at `lukasz(%)raczylo.com`.
 
 
-![Lukasz Raczylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaszraczylo&count_private=true&show_icons=true)
+![Lukasz Raczylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaszraczylo&count_private=true&show_icons=true&cache_seconds=1800)
 
 * Includes contributions within private repositories and projects
