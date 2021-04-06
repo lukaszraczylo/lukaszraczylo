@@ -1,6 +1,6 @@
 ## Hi, I'm Lukasz
 
-I'm a London based, established contractor, proud ASPIE with love for new technologies.
+I'm London based, established contractor, proud ASPIE with love for new technologies.
 Most of my code is private ( either mine or business choice ) but bits which are public are free for grabs.
 
 #### Aspiring tech writer
