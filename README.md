@@ -14,11 +14,16 @@ You can also check out my other [medium articles](https://raczylo.medium.com/).
 
 #### Languages and technologies I work with
 
-Golang 🥰 Python 🔥 Ruby 💎 (and quite rusty PHP, Java, C)
-
-🌟 Docker Kubernetes Terraform Ansible 🌟
+🌟 Golang 🌟 Python 🌟 Ruby 🌟 (and quite rusty PHP, Java, C)
+🌟 Docker 🌟 Kubernetes 🌟 Terraform 🌟 Ansible 🌟
+🌟 AWS 🌟 GCP 🌟 I don't like Azure.
 
 #### Contact me
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+[1]: https://twitter.com/raczylo
+[2]: https://www.linkedin.com/in/lukaszraczylo/
 
 You can find me on [raczylo.com](https://www.raczylo.com), [Linkedin](https://www.linkedin.com/in/lukaszraczylo/) or drop me a line at `lukasz(%)raczylo.com`.
 
