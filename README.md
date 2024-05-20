@@ -4,25 +4,26 @@ I'm London based, established contractor, proud ASPIE with ultimate love for new
 Most of my code is private ( either mine or business choice ) but bits which are public are free for grabs or contributions
 
 #### Bit of tech writing
-*
+
 * [Building the best telegram bot](https://itnext.io/building-best-telegram-bot-bbf905d09d74)
 * [I broke my kubernetes cluster running on Raspberry Pi](https://itnext.io/i-broke-my-kubernetes-cluster-running-on-raspberry-pi-355234a24d)
 * [Kubernetes, microservices and github actions deployments](https://itnext.io/unified-microservices-builds-using-github-actions-3442c4ee175e)
 * [Building your home kubernetes cluster on Raspberry Pi](https://itnext.io/building-your-home-raspberry-pi-kubernetes-cluster-14eeeb3c521e)
 
-You can also check out my other [medium articles](https://raczylo.medium.com/).
+You can also check out my other [medium articles](https://blog.raczylo.com/).
 
-#### Languages and technologies I work with
+#### Selected public projects
 
-🌟 Golang 🌟 Python 🌟 Ruby 🌟 **(and quite rusty PHP, Java, C)**
-
-🌟 Docker 🌟 Kubernetes 🌟 Terraform 🌟 Ansible 🌟
-
-🌟 AWS 🌟 GCP 🌟 **I don't like Azure.**
+* [Semantic Version Generator](https://github.com/lukaszraczylo/semver-generator) - **Golang** simple tool to generate semantic versioning based on the git history. It can be used as a standalone library or github action, simplifying the process.
+* [Go Simple GraphQL library](https://github.com/lukaszraczylo/go-simple-graphql) - **Golang** simple graphql library, optimised for the maximum speed and minimum allocations. Unlike the other libraries - the queries are passed as they are, without types assignment which makes it much easier to use from the development perspective. Projects using this library easily handle tens of thousands of requests per second with minimal resources.
+* [Kubernetes Jobs Manager Operator](https://github.com/lukaszraczylo/jobs-manager-operator) - **Golang** kubernetes operator to manage jobs in the kubernetes cluster. Its sole purpose of existence is to allow for advanced workflows to be executed in user specified order and with interlocked dependencies on groups / jobs.
+* [GraphQL monitoring proxy](https://github.com/lukaszraczylo/graphql-monitoring-proxy) - **Golang** graphql proxy which allows for the generation of prometheus-friendly statistics on the execute queries. It allows for caching, the RO/RW separation, rate limiting, banning specific users, blocking schema introspection and so on - at the speed of light. It was developed as a protest against the Hasura team putting basic monitoring features behind the paywall, and extended with additional features from the paid version down the line. The proxy is hyper-optimised and running on the real-world production systems, serving tens of thousands of requests per second with 3cpu and 15mb of RAM on Raspberry Pi.
 
 #### Contact me
 
-You can find me on [raczylo.com](https://raczylo.com), [twitter](https://twitter.com/raczylo) or on [linkedIn](https://www.linkedin.com/in/lukaszraczylo/).
+You can find me on [raczylo.com](https://raczylo.com) or on [linkedIn](https://www.linkedin.com/in/lukaszraczylo/).
+
+#### Github statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lukaszraczylo)](https://git.io/streak-stats)
 
