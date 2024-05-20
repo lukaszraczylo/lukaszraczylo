@@ -2,7 +2,7 @@
 
 I'm London based, contractor, "Head of Magic and Wizardry" ( because job titles are overrated ).
 Dealing with the cloud, kubernetes, microservices, and all the other buzzwords on a daily basis. Responsible for architecture, development, and maintenance of the systems which are running on the edge of the technology.
-Most of my code is private ( either mine or business choice ) but bits which are public are free for grabs or contributions
+Most of my code is private ( either mine or business choice ) but bits which are public are free for grabs or contributions.
 
 #### Bit of tech writing
 
