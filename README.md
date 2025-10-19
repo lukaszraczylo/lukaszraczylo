@@ -15,6 +15,7 @@ You can also check out my other [medium articles](https://blog.raczylo.com/).
 
 #### Selected public projects
 
+* [Traefik OIDC plugin](https://github.com/lukaszraczylo/traefikoidc) - **Golang** Traefik OIDC plugin closely following OIDC specification with multi-provider support and enhanced configuration options.
 * [Semantic Version Generator](https://github.com/lukaszraczylo/semver-generator) - **Golang** simple tool to generate semantic versioning based on the git history. It can be used as a standalone library or github action, simplifying the process.
 * [Go Simple GraphQL library](https://github.com/lukaszraczylo/go-simple-graphql) - **Golang** simple graphql library, optimised for the maximum speed and minimum allocations. Unlike the other libraries - the queries are passed as they are, without types assignment which makes it much easier to use from the development perspective. Projects using this library easily handle tens of thousands of requests per second with minimal resources.
 * [Kubernetes Jobs Manager Operator](https://github.com/lukaszraczylo/jobs-manager-operator) - **Golang** kubernetes operator to manage jobs in the kubernetes cluster. Its sole purpose of existence is to allow for advanced workflows to be executed in user specified order and with interlocked dependencies on groups / jobs.
