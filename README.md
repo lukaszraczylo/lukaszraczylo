@@ -13,6 +13,9 @@ Most of my code is private ( either mine or business choice ) but bits which are
 
 You can also check out my other [medium articles](https://blog.raczylo.com/).
 
+#### Homebrew ( macOS + linux ) packages
+All homebrew packages for my projects are available via [brew.raczylo.com](https://brew.raczylo.com/)
+
 #### Selected public projects
 
 * [Traefik OIDC plugin](https://github.com/lukaszraczylo/traefikoidc) + [page](https://traefikoidc.raczylo.com) - **Golang** Traefik OIDC plugin closely following OIDC specification with multi-provider support and enhanced configuration options.
