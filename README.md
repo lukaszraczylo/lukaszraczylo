@@ -29,6 +29,17 @@ All homebrew packages for my projects are available via [brew.raczylo.com](https
 * [kportal - terminal TUI for port forwarding management](https://github.com/lukaszraczylo/kportal) + [page](https://kportal.raczylo.com) - **Golang** client for port forwarding management within development environments. Define context / namespaces / services / ports to be forwarded to your local machine via code, start it up and it'll do the rest. It ensures that connections / portforwards are re-established in case pods dying or connection being interrupted for the smooth development experience.
 * [lolcathost - terminal TUI for quick and easy management of /etc/hosts](https://github.com/lukaszraczylo/lolcathost) + [page](https://kportal.raczylo.com) - **Golang** tool for painless management of hosts file for the local development. Allows for hosts grouping, profiles and instant switch / deactivation. No more need for manual /etc/hosts change & reload the dns resolver over and over again.
 
+#### MCP servers
+
+| MCP server | Repository | Description |
+|---------|-----------|-------------|
+| **compactor** | [lukaszraczylo/compaction-mcp](https://github.com/lukaszraczylo/compaction-mcp) | MCP server that manages LLM working memory within a token budget. Stores,
+retrieves, and compacts context so conversations stay under limit without losing valuable information. Features BM25 search, importance-based scoring, auto-tagging,
+deduplication, and optional persistent state. |
+| **filepuff** | [lukaszraczylo/filepuff-mcp](https://github.com/lukaszraczylo/filepuff-mcp) | AST-aware file operations and LSP integration for Claude Code. Provides
+tree-sitter-powered code parsing, smart editing with syntax validation, symbol navigation, find definitions/references, and regex-cached file search across Go, TypeScript,
+  Python, C/C++, HTML, and Vue files. |
+
 #### Contact me
 
 You can find me on [raczylo.com](https://raczylo.com) or on [linkedIn](https://www.linkedin.com/in/lukaszraczylo/).
