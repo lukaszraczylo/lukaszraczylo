@@ -33,12 +33,8 @@ All homebrew packages for my projects are available via [brew.raczylo.com](https
 
 | MCP server | Repository | Description |
 |---------|-----------|-------------|
-| **compactor** | [lukaszraczylo/compaction-mcp](https://github.com/lukaszraczylo/compaction-mcp) | MCP server that manages LLM working memory within a token budget. Stores,
-retrieves, and compacts context so conversations stay under limit without losing valuable information. Features BM25 search, importance-based scoring, auto-tagging,
-deduplication, and optional persistent state. |
-| **filepuff** | [lukaszraczylo/filepuff-mcp](https://github.com/lukaszraczylo/filepuff-mcp) | AST-aware file operations and LSP integration for Claude Code. Provides
-tree-sitter-powered code parsing, smart editing with syntax validation, symbol navigation, find definitions/references, and regex-cached file search across Go, TypeScript,
-  Python, C/C++, HTML, and Vue files. |
+| **compactor** | [lukaszraczylo/compaction-mcp](https://github.com/lukaszraczylo/compaction-mcp) | MCP server that manages LLM working memory within a token budget. Stores, retrieves, and compacts context so conversations stay under limit without losing valuable information. Features BM25 search, importance-based scoring, auto-tagging, deduplication, and optional persistent state. |
+| **filepuff** | [lukaszraczylo/filepuff-mcp](https://github.com/lukaszraczylo/filepuff-mcp) | AST-aware file operations and LSP integration for Claude Code. Provides tree-sitter-powered code parsing, smart editing with syntax validation, symbol navigation, find definitions/references, and regex-cached file search across Go, TypeScript, Python, C/C++, HTML, and Vue files. |
 
 #### Contact me
 
