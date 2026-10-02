@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/London-UK-0f2027?style=flat-square&logo=googlemaps&logoColor=white" alt="London" />
 <img src="https://img.shields.io/badge/status-contractor-2ea043?style=flat-square" alt="Contractor" />
 <img src="https://img.shields.io/github/followers/lukaszraczylo?style=flat-square&logo=github&label=followers&labelColor=0f2027&color=58A6FF" alt="Followers" />
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flukaszraczylo%2Flukaszraczylo%2Fmaster%2Fstars.json&style=flat-square&logo=github&labelColor=0f2027" alt="Total stars" />
 
 </div>
 
