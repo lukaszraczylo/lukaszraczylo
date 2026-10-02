@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Lukasz%20Raczylo&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Head%20of%20Magic%20and%20Wizardry&descSize=20&descAlignY=58&animation=fadeIn" alt="Lukasz Raczylo - Head of Magic and Wizardry" />
 
 <a href="https://github.com/lukaszraczylo">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Cloud+%C2%B7+Kubernetes+%C2%B7+Microservices;Architecture+on+the+edge+of+technology;Most+of+my+code+is+private.+The+rest+is+free+for+grabs." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Cloud+%C2%B7+Kubernetes+%C2%B7+Microservices;Architecture+on+the+edge+of+technology;Most+of+my+code+is+private.+The+rest+is+free+for+grabs." alt="Typing animation" />
 </a>
 
 <br/>
