@@ -156,7 +156,7 @@ Most of my code is private (either mine or business choice), but the bits which 
       <h3><a href="https://github.com/lukaszraczylo/traefik-x402">traefik-x402</a></h3>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Traefik-30363d?style=flat-square" alt="Traefik" /> <img src="https://img.shields.io/github/stars/lukaszraczylo/traefik-x402?style=flat-square&logo=github&label=stars&labelColor=0f2027&color=58A6FF" alt="Stars" /><br/><br/>
       Middleware plugin that charges for Traefik routes with the x402 v2 payment protocol. It protects exact URLs, prefixes and suffixes, accepts several assets for one URL, and verifies and settles payments through a facilitator.<br/><br/>
-      <a href="https://github.com/lukaszraczylo/traefik-x402">Repository</a>
+      <a href="https://github.com/lukaszraczylo/traefik-x402">Repository</a> · <a href="https://traefik-x402.raczylo.com">Website</a>
     </td>
   </tr>
 </table>
