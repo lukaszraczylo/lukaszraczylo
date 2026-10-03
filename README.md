@@ -118,7 +118,7 @@ Most of my code is private (either mine or business choice), but the bits which 
 
 ## Gateways, proxies and observability
 
-<img src="https://img.shields.io/badge/4_projects-24A1C1?style=for-the-badge" alt="4 projects" />
+<img src="https://img.shields.io/badge/5_projects-24A1C1?style=for-the-badge" alt="5 projects" />
 
 <sub>Plugins and proxies in front of services, and tools that report on them.</sub>
 
@@ -149,6 +149,14 @@ Most of my code is private (either mine or business choice), but the bits which 
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" /> <img src="https://img.shields.io/badge/Prometheus-30363d?style=flat-square" alt="Prometheus" /> <img src="https://img.shields.io/github/stars/lukaszraczylo/ghtracker?style=flat-square&logo=github&label=stars&labelColor=0f2027&color=58A6FF" alt="Stars" /><br/><br/>
       Dashboard and Prometheus metrics for GitHub repositories, in one binary or container image. It shows only what is wrong: failing workflows, pull requests waiting too long and stale issues.<br/><br/>
       <a href="https://github.com/lukaszraczylo/ghtracker">Repository</a> · <a href="https://ghtracker.raczylo.com">Website</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/lukaszraczylo/traefik-x402">traefik-x402</a></h3>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Traefik-30363d?style=flat-square" alt="Traefik" /> <img src="https://img.shields.io/github/stars/lukaszraczylo/traefik-x402?style=flat-square&logo=github&label=stars&labelColor=0f2027&color=58A6FF" alt="Stars" /><br/><br/>
+      Middleware plugin that charges for Traefik routes with the x402 v2 payment protocol. It protects exact URLs, prefixes and suffixes, accepts several assets for one URL, and verifies and settles payments through a facilitator.<br/><br/>
+      <a href="https://github.com/lukaszraczylo/traefik-x402">Repository</a>
     </td>
   </tr>
 </table>
